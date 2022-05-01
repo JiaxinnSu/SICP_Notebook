@@ -1,6 +1,6 @@
 # SICP Notebook
 
-To run the notebook, need to install the jupyter notebook and the `iracket` kernel.
+To run the notebook, need to install the `jupyter notebook` and the `iracket` kernel.
 
 To make Jupyter support Racket.
 
@@ -10,3 +10,7 @@ raco iracket install
 ```
 
 Note: you need install `libzmq.5.dylib` first.
+
+## Catalog
+
+[Exercises for Chapter 1](./chapter1exercises.ipynb)
