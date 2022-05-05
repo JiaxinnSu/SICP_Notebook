@@ -14,3 +14,4 @@ Note: you need install `libzmq.5.dylib` first.
 ## Catalog
 
 [Exercises for Chapter 1](./chapter1exercises.ipynb)
+[Exercises for Chapter 3](./chapter3exercises.ipynb)
