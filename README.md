@@ -13,5 +13,14 @@ Note: you need install `libzmq.5.dylib` first.
 
 ## Catalog
 
-[Exercises for Chapter 1](./chapter1exercises.ipynb)
-[Exercises for Chapter 3](./chapter3exercises.ipynb)
+### Exercises
+
+#### Chapter 1 Building Abstractions with Procedures
+
+[The Elements of Programming](./chapter1_1exercises.ipynb)
+
+[Procedures and the Processes They Generate](./chapter1_2exercises.ipynb)
+
+#### Chapter 3 Modularity, Objects, and State
+
+[Streams](./chapter3_5exercises.ipynb)
